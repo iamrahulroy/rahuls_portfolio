@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: tripwing_size.png
+alt: image-alt
+project-date: Jan 2014
+client: Eric Tanner
+category: Web Development
+description: Responsible for writing rake tasks to fetch data from various third party data interfaces like XML feed, and SOAP APIs. Also, responsible for indexing data into remote Elasticsearch db.
+---

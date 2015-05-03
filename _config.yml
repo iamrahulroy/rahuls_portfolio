@@ -1,7 +1,8 @@
 # Site settings
 title: Rahul's Portfolio
 email: techniciablog@gmail
-url: https://iamrahulroy.github.io/portfolio
+url: https://iamrahulroy.github.io/rahuls_portfolio
+baseurl: /rahuls_portfolio
 description: "Rahul Roy's portfolio. A place where he shows off his skill sets, and past work."
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
